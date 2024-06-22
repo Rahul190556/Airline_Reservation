@@ -1,0 +1,9 @@
+___________ABC Airlines__________
+____________Ticket_______________
+_____________Bill________________
+Customer ID: 101
+Customer Name: Rahul Kumar
+Customer Gender: Male
+Description: Have a Safe Journey!!.. Visit us Again. Thankyou!!
+Destination		Australia
+Flight cost: 		42000
